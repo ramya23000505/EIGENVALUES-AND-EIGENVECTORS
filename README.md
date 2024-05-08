@@ -1,4 +1,5 @@
 # EIGENVALUES-AND-EIGENVECTORS
+### Date:
 ## Aim:
 To write a python program to find the Eigenvalues and Eigen Vectors
 ## Equipment’s required:
@@ -24,7 +25,7 @@ eigvalues,eigvectors=np.linalg.eig(matrix)
 print("Eigen values are",eigvalues,"and Eigen Vectors are",eigvectors)
 ```
 ## Output:
-![Screenshot 2024-04-14 190910](https://github.com/ramya23000505/EIGENVALUES-AND-EIGENVECTORS/assets/149370791/caef6fb7-f65e-431b-83f8-c7fc09fb9f30)
-![Screenshot 2024-04-14 190941](https://github.com/ramya23000505/EIGENVALUES-AND-EIGENVECTORS/assets/149370791/531b923d-3e67-4fa3-81a9-a7302b10c3b7)
+![alt text](<4 in.png>)
+![alt text](<4 ot.png>)
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
